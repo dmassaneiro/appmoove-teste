@@ -1,0 +1,16 @@
+/* css incial */
+html{
+    height: 100%;
+}
+body{
+    margin:0;
+    padding:0;
+    border-bottom: #04A9DE 12px solid ;
+    display: grid;
+    grid-template-rows: 85% auto;
+}
+
+.header-title{
+    display: flex;
+    justify-content: space-between;
+}
