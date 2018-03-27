@@ -4,14 +4,14 @@
 ## O objetivo deste teste é demonstrar suas habilidades com desenvolvimento web, para tanto deve ser utilizado apenas HMTL/CSS/JS.
  - Utilizar técnicas de layout responsivo para mobile
  - Procure deixar o código mais simples possível.
- - Sinta se livre para usar a criatividade quanto aos conceitos de UI design e UX design.
+ - Sinta-se livre para usar a criatividade quanto aos conceitos de UI design e UX design.
 
  ## O projeto
  - O projeto consiste em criar uma SPA (Single Page Aplication), que mostre informações de filmes.
  - A página deve ser responsiva e dividida em duas partes. 
 
  	1. Página inicial:
- 		- Mostrar um *header* contendo o logo da appmoove e nome do participante.
+ 		- Mostrar um *header* contendo o **logotipo_pareazul.svg** da appmoove e nome do participante.
  		- Mostrar uma caixa de pesquisa para buscar um filme
  			- O resultado da busca deve ser exibido na listagem abaixo.
  		- Exibir os últimos 3 filmes em cartaz no cinema
