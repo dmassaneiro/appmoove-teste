@@ -25,12 +25,12 @@
   ## Layout![layout](https://github.com/lpbaiser/appmoove-teste/blob/master/layout.png)
 
  ### Para desenvolver o teste, você deve utilizar as API de filmes disponível neste [link](https://www.themoviedb.org) 
- 	- Crie uma conta e siga a documentação da API no site. 
+ * Crie uma conta e siga a documentação da API no site. 
 
  ## Restrições do projeto
- 	- Não utilizar templates/apis/frameworks (tais como Jquery, bootstrap, angular). Nosso objetivo é testar suas habilidades com HTML/CSS/JS
+ * Não utilizar templates/apis/frameworks (tais como Jquery, bootstrap, angular). Nosso objetivo é testar suas habilidades com HTML/CSS/JS
 
  ## Cronograma do projeto
- 	- Você deve fazer um pull request do projeto em até **48 horas** após o envio do comunicado por e-mail.
+ * Você deve fazer um pull request do projeto em até **48 horas** após o envio do comunicado por e-mail.
 
 
