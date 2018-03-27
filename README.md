@@ -19,6 +19,7 @@
  		- Ao clicar sobre um filme na lista, mostrar as informações sobre o filme na parte de **Detalhe** 
  	2. Página de detalhes
  		- Mostrar detalhes dos filmes, exemplo: nome, imagem da capa, data de lançamento, elenco, etc...
+ 			- Os detalhes podem ser mostrados em uma janela modal, por exemplo.
  		- Layout livre. Use a sua criatividade!
 
  ### Para desenvolver o teste, você deve utilizar as API de filmes disponível neste [link](https://www.themoviedb.org) 
