@@ -21,6 +21,8 @@
  		- Mostrar detalhes dos filmes, exemplo: nome, imagem da capa, data de lançamento, elenco, etc...
  			- Os detalhes podem ser mostrados em uma janela modal, por exemplo.
  		- Layout livre. Use a sua criatividade!
+  
+  ## Layout![layout](https://github.com/lpbaiser/appmoove-teste/blob/master/layout.png)
 
  ### Para desenvolver o teste, você deve utilizar as API de filmes disponível neste [link](https://www.themoviedb.org) 
  	- Crie uma conta e siga a documentação da API no site. 
