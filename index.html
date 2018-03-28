@@ -8,12 +8,48 @@
 </head>
 
 <body>
-    
-    <!-- Put your html code here -->
+    <a class="nome">DIEGO MASSANEIRO</a>
+    <header class="cabecalho">  
+      <a href="index.html"><img src="logotipo_pareazul.svg" class="logo" /></a>
+    </header>
+    <hr/>
+    <form>
+        <input type="text" class="pesquisar" name="pes" id="pes" placeholder=" Buscar por um filme" onblur="pesquisar()"/>
+    </form>
+    <center>
+        <div id="teste">
+                <center><a id="lan">Resultado da Pesquisa</a></center>
+            <table id="tabela">
+                <tr>
+                    <th> Nome do Filme</th>
+                    <th> Gênero</th>
+                </tr>
+                <tbody id="s">
+                    
+                </tbody>
+             </table>
+        </div>
+    </center>
 
+    <div id="esconder">
+        <center><a id="lan">Lançamentos</a></center>
+        <div class="wrap" id="content">
+        </div>
+        <center>
+            <table id="tabela">
+                <tr>
+                    <th> Nome do Filme</th>
+                    <th> Gênero</th>
+                </tr>
+                <tbody id="popular">
+                    
+                </tbody>
+            </table>
+        </center>
+    </div>
+    <br>
 <!-- Load scripts -->
-<!-- <script src="js/..."></script> -->
-
+<script src="js/main.js"></script>
+<script src="js/pesquisa.js"></script>
 </body>
-
 </html>

@@ -5,7 +5,7 @@ html{
 body{
     margin:0;
     padding:0;
-    border-bottom: #04A9DE 12px solid ;
+    /*border-bottom: #04A9DE 12px solid ;*/
     display: grid;
     grid-template-rows: 85% auto;
 }
@@ -14,3 +14,168 @@ body{
     display: flex;
     justify-content: space-between;
 }
+
+a{
+    text-decoration: none;
+    color: dimgray;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.nome {
+    width: 300px;  
+    padding: 1% 8%;
+    position: absolute;
+    color: darkgray;
+    font-weight: bold;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    top: 8px
+}
+
+.cabecalho {
+    width: 100px;
+    float: left;
+    padding: 1% 8%;
+}
+
+.logo {
+    width: 300px;
+    height: 150px;
+    float: left;
+    
+}
+
+hr {
+    width: 100%;
+    size: 30px;
+    border-top-width: 2px;
+    align: center; 
+  
+}
+
+input{
+    margin-top: 50px;
+    width: 60%;
+    height: 30px;
+    background: #fff;
+}
+
+form{
+    width: 100%;
+    height: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+#lan {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color:dimgray;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.wrap{
+    width: 62%;
+    margin: auto;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.card{
+    box-shadow: 0 6px 8px 0 rgba(1, 0, 0, 0.2);
+    transition: 0.4s;
+    width: 100%;
+    background: #fff;
+    text-align: center;
+    font-size: 16px;
+    font-family: sans-serif;
+    float: left;
+    margin: 5px
+}
+
+.card:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6);
+
+}
+.container{
+    padding: 2px 16px;
+}
+
+.tit{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color:dimgray;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+#tabela {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    width: 90%;
+    margin-top: 50px;
+    border-spacing: 5px;
+}
+
+#tabela td, #customers th {
+    border: 1px solid #04A9DE;
+    padding: 8px;
+    
+}
+
+#tabela tr:nth-child(even){
+    background-color: #f2f2f2;
+    padding-right:2px;
+    
+}
+
+#tabela tr:hover {
+    background-color: #ddd; 
+
+}
+
+#tabela th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04A9DE;
+    color: white;
+}
+
+/* pagina detalhes... .....................................................................*/
+.container{
+    margin: 1em auto;  	
+	width: 90%;  	
+	
+}
+
+#desc{
+    text-align: justify;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    padding-left: 18%;
+    padding-right: 10%; 
+
+}
+#title{
+    text-align: left;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    padding-left: 18%;
+    padding-right: 10%; 
+
+}
+#list{
+    text-align: left;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    padding-left: 18%;
+    padding-right: 10%; 
+
+}
+#gen{
+    text-align: left;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: black
+}
+
+#teste{
+    display: none;
+}
+
